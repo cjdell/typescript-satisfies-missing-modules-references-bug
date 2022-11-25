@@ -7,10 +7,10 @@ console-log-colors@^0.3.3:
   resolved "https://registry.yarnpkg.com/console-log-colors/-/console-log-colors-0.3.3.tgz#d1d22c1e919789b6f4ef36779bb415916b1bed5c"
   integrity sha512-B4FfSlK/w2GFKZKnIEuK+KFuN4JLr4mqLXSpgSgvebCdXk4HUi+slxX35irN+pVPMKKy3zn+f4jWFUyvUV1YMw==
 
-typescript@^4.9.3:
-  version "4.9.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.3.tgz#3aea307c1746b8c384435d8ac36b8a2e580d85db"
-  integrity sha512-CIfGzTelbKNEnLpLdGFgdyKhG23CKdKgQPOBc+OUNrkJ2vr+KSzsSV5kq5iWhEQbok+quxgGzrAtGWCyU7tHnA==
+typescript@^5.0.0-dev.20221125:
+  version "5.0.0-dev.20221125"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.0.0-dev.20221125.tgz#05d8eb01d2cd17b8a78a167d890c02a0e149a210"
+  integrity sha512-5X4Uz1KiBZSF4QobfLgXNawzNROtx6Sibp4hkz1AYMUERoxwoVN3IbWnyyGe0dsiZsI7IFmwJMZurh2pxSE0SQ==
 
 zod@^3.19.1:
   version "3.19.1"
